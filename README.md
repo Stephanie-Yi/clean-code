@@ -6,6 +6,7 @@ Welcome to the Clean Code Demo Repository! This project is designed to illustrat
 
 - [Introduction](#introduction)
 - [Contributing](#contributing)
+- [Clean Code Principles](#clean-code-principles)
 - [License](#license)
 
 ## Introduction
@@ -25,7 +26,7 @@ We welcome contributions from everyone! If you'd like to get involved, here's ho
 5. **Commit your changes** and push them to your forked repository.
 6. Submit a **pull request** to this repository with a clear description of what you have improved.
 
-### Clean Code Principles
+## Clean Code Principles
 
 Some key principles to keep in mind while refactoring:
 
