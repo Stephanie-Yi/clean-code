@@ -2,6 +2,13 @@ package main
 
 import "fmt"
 
+// The exercise includes:
+
+// 1. Define basic structs for Book and User.
+// 2. Create a Library struct with methods to add books, borrow books, and return books.
+// 3. Ensure the code follows clean code principles: readability, proper naming conventions,
+// modularity, reusability, and documentation.
+
 // B represents a book-like object.
 type B struct {
     Id     string
@@ -103,7 +110,6 @@ func (lb *L) AllU() {
     }
 }
 
-// Not using findBook or findUser for added nebulousness
 func (lb *L) us(id string) *U {
     for i := range lb.Us {
         if lb.Us[i].Id == id {
