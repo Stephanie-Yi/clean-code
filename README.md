@@ -5,7 +5,6 @@ Welcome to the Clean Code Demo Repository! This project is designed to illustrat
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
 
